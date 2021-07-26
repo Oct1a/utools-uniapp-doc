@@ -1,0 +1,14 @@
+{
+  "version": "1.0.10",
+  "pluginName": "uniApp开发文档",
+  "description": "uniAPP 开发文档",
+  "author": "Oct1a",
+  "homepage": "https://Oct1a.cn",
+  "preload": "preload.js",
+  "logo": "logo.png",
+  "features": [{
+    "code": "uniapp",
+    "explain": "开发文档",
+    "cmds": ["uniapp", "app", "uni"]
+  }]
+}
